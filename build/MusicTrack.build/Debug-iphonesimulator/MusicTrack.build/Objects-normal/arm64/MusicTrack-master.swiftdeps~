@@ -1,0 +1,17 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "b7ba7ab2f320ce8f8577fd1f31d3bb4b734ed7c03b334446677b85773df9cb5e"
+build_start_time: [1706077125, 464287996]
+build_end_time: [1706077125, 505136013]
+inputs:
+  "/Users/neosoft/Desktop/MusicTrack/MusicTrack/APIManager.swift": !private [1705842174, 536818504]
+  "/Users/neosoft/Desktop/MusicTrack/MusicTrack/Controller/Cells/MusicTrackCollectionViewCell.swift": !private [1705917992, 523950338]
+  "/Users/neosoft/Desktop/MusicTrack/MusicTrack/Controller/Cells/MusicTrackTableViewCell.swift": !private [1706016484, 887607574]
+  "/Users/neosoft/Desktop/MusicTrack/MusicTrack/Controller/CustomTabBarViewController.swift": !private [1706004653, 998434066]
+  "/Users/neosoft/Desktop/MusicTrack/MusicTrack/Controller/PlayerViewController.swift": !private [1705994804, 264471530]
+  "/Users/neosoft/Desktop/MusicTrack/MusicTrack/CustomBarsViewController.swift": !private [1706016547, 131529569]
+  "/Users/neosoft/Desktop/MusicTrack/MusicTrack/DataModel/MusicTrackModel.swift": !private [1705861381, 690570831]
+  "/Users/neosoft/Desktop/MusicTrack/MusicTrack/ForYouViewController.swift": !private [1705829856, 158183574]
+  "/Users/neosoft/Desktop/MusicTrack/MusicTrack/SupportingFiles/AppDelegate.swift": !private [1706016758, 771672010]
+  "/Users/neosoft/Desktop/MusicTrack/MusicTrack/SupportingFiles/SceneDelegate.swift": !private [1705689723, 887804031]
+  "/Users/neosoft/Desktop/MusicTrack/MusicTrack/TopTracksViewController.swift": !private [1705829073, 233920335]
+  "/Users/neosoft/Desktop/MusicTrack/MusicTrack/UITableView.swift": !private [1705748533, 89024066]
